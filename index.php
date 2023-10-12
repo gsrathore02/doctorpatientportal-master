@@ -208,6 +208,8 @@ button.list-group-item:hover{
 	<ul class="nav navbar-nav pull-right">
 	<li class="active"><a href="#"><span class="glyphicon glyphicon-home"></span> Home</a></li>
 	<li><a href="about.php"><span class="glyphicon glyphicon-info-sign"></span> About</a></li>
+	<li><a href="about.php"><span class="glyphicon glyphicon-info-sign"></span> Gallery</a></li>
+	<li><a href="about.php"><span class="glyphicon glyphicon-info-sign"></span> Gallery Pic</a></li>
 	<li><a href="contact.php"><span class="glyphicon glyphicon-earphone"></span> Contact Us</a></li>
 	<li><a href="help.php"><span class="glyphicon glyphicon-question-sign"></span> Help</a></li>
 	<li class="a"><a data-toggle="modal" data-target="#login" href="#"><span class="glyphicon glyphicon-user"></span> Login</a></li>
